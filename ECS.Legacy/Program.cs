@@ -1,5 +1,5 @@
 ﻿using System;
-
+  
 namespace ECS.Legacy
 {
     class Program
