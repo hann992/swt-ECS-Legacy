@@ -16,7 +16,6 @@ namespace ECS.Legacy.Test
         public void Test1()
         {
             uut.Regulate();
-            var line1 = uut.Regulate();
 
         }
     }
